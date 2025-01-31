@@ -20,5 +20,5 @@ This project is licensed under the **MIT License**.
 
 ## Author
 
-**Yusuke Wada** – [GitHub](https://github.com/aman3255)
+**Aman Prajapati** – [GitHub](https://github.com/aman3255)
 
